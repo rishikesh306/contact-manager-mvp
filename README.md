@@ -159,7 +159,19 @@ Through this project, I gained experience in:
 ##  GitHub Repository
 
 Project Source Code:  
- *(https://github.com/rishikesh306/contact-manager-mvp)*
+ (https://github.com/rishikesh306/contact-manager-mvp)
+
+## 📄 Product Requirements Document (PRD)
+
+The detailed **Product Requirements Document (PRD)** for this project is available in this repository.
+
+ **View / Access PRD:**
+[Click here to open PRD](https://github.com/rishikesh306/contact-manager-mvp)
+
+⚠️ **Note:**
+GitHub preview may not display the full PDF due to rendering limitations.
+Please **download the file** to view the complete document properly.
+
 
 ---
 
